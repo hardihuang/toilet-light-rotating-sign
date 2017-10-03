@@ -3,7 +3,7 @@
 ## product and circuit diagram
 ![Alt text](/images/toilet-light-rotating-sign_bb.jpg)
 ![Alt text](/images/79ab4490-2757-4db6-ba90-026e34f4c44d.jpg)
-![Alt text](/images/85a7c4aa-2b23-41af-a7cd-da1419afaa1b.gif.jpg)
+![Alt text](/images/85a7c4aa-2b23-41af-a7cd-da1419afaa1b.gif)
 
 ## inside
 ![Alt text](/images/20170919183944231.jpg)
